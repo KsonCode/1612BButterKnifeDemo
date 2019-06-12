@@ -34,6 +34,7 @@ public class ProductsAdapter extends XRecyclerView.Adapter<ProductsAdapter.MyVie
 
     @Override
     public int getItemCount() {
+
         return 0;
     }
 
