@@ -84,6 +84,7 @@ public class MainActivity extends BaseActivity implements XRecyclerView.LoadingL
 
     public void test(){
         //功能1
+        //功能2
     }
 
     /**
